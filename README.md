@@ -1,9 +1,5 @@
 # Formacao-Power-BI-DIO
 
-Claro, aqui está um exemplo de README básico para descrever o desafio de criação de relatórios no Power BI:
-
----
-
 # Desafio de Criação de Relatórios no Power BI
 
 ## Descrição do Desafio
